@@ -1,0 +1,31 @@
+#Student Details
+
+Name: [PUSHPAM ]
+
+Registration  No.: [23157128045]
+
+Course: [B.TECH]
+
+BRANCH:[CSE(AI&ML)]
+
+#Assignment Overview
+
+This assignment includes SQL scripts for the following:
+
+#DDL (Data Definition Language)
+
+Creation of tables
+
+Definition of primary keys, foreign keys, and constraints
+
+Table alterations if required
+
+#DML (Data Manipulation Language)
+
+Inserting sample data into tables
+
+Updating records
+
+Deleting records
+
+Querying data using SELECT statements
